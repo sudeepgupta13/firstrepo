@@ -5,4 +5,8 @@
 #print(my_list)
 
 str1="python"
+print(str1)
+print(id(str1))
+str1 += "programming"
+print(str1)
 print(id(str1))
