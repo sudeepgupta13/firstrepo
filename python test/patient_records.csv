@@ -1,0 +1,9 @@
+PatientID,Gender,Age,SystolicBP,DiastolicBP,Cholesterol,Diagnosis
+P001,F,35,120,80,200,Normal
+P002,M,52,145,95,250,Hypertension
+P003,F,28,110,70,180,Normal
+P004,M,68,160,100,280,Hypertension
+P005,F,42,130,85,220,Normal
+P006,M,75,155,98,270,Hypertension
+P007,F,50,135,,230,Normal
+P008,M,60,,92,260,Hypertension
