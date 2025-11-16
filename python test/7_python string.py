@@ -22,3 +22,13 @@ print(x + " test")
 print("l" in x)
 print("l" not in x)
 print(len(x))
+print(x[ :5])
+print(x[-6:-1])
+
+# looping through string
+for x in "banana":
+    print(x)    
+# check string with if for user friendly messages
+txt = "The best things in life are free!"
+if "free" in txt:
+    print("Yes, 'free' is present.")
